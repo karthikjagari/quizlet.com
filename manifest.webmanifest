@@ -1,0 +1,37 @@
+{
+  "display": "minimal-ui",
+  "background_color": "#FFFFFF",
+  "gcm_sender_id": "103953800507",
+  "icons": [
+    {
+      "src": "/static/brandmark/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/static/brandmark/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/static/brandmark/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/brandmark/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "name": "Quizlet",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.quizlet.quizletandroid"
+    }
+  ],
+  "short_name": "Quizlet",
+  "start_url": "/latest"
+}
